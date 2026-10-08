@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Bade data files (GitHub par 100 MB se bari file allowed nahi)
+*.csv
+!upc_lookup.csv
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

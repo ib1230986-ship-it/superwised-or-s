@@ -1,0 +1,1391 @@
+upc,category,brand,upc_effect,typical_price
+1000083,Cereals,Heinz,1.4316,4.426
+1000170,Cereals,Lean Cuisine,3.016,3.414
+1000336,Cereals,Kimberly,2.6085,5.104
+1000542,Cereals,P&G,1.893,3.374
+1000605,Cereals,Generic,2.5922,2.429
+1000782,Cereals,Keebler,2.0505,5.026
+1001153,Cereals,Colgate,1.8209,4.251
+1001272,Cereals,Colgate,1.4844,4.4885
+1001362,Cereals,Colgate,3.0027,3.714
+1001623,Cereals,Budweiser,2.8751,4.4045
+1002048,Cereals,Healthy Choice,3.4419,2.887
+1002176,Cereals,Nabisco,2.4563,1.8955
+1002686,Cereals,Charmin,2.9185,4.558
+1003080,Cereals,Cheer,2.7392,2.322
+1003906,Cereals,Cheer,2.192,2.933
+1004504,Cereals,Campbells,1.5664,3.763
+1005132,Cereals,Nabisco,2.8788,4.2485
+1005759,Cereals,Pepsi,1.4578,3.3145
+1006069,Cereals,Coca-Cola,3.2945,3.953
+1006310,Cereals,Tide,1.7481,2.477
+1006713,Cereals,Kimberly,1.9711,1.873
+1007235,Cereals,Nabisco,2.4578,2.844
+1007363,Cereals,Quaker,3.2951,2.398
+1007403,Cereals,Kraft,1.8927,7.173
+1007675,Cereals,Kimberly,1.3769,2.134
+1007698,Cereals,Campbells,4.4565,4.622
+1008096,Cereals,Sunbeam,2.0819,1.648
+1008396,Cereals,Unilever,2.2233,6.168
+1008670,Cereals,Charmin,3.7001,3.621
+1009264,Cereals,Sunbeam,1.6499,3.601
+1009393,Cereals,Charmin,2.9831,2.571
+1009680,Cereals,Budweiser,2.7231,3.378
+1010161,Cereals,General Mills,2.4925,2.183
+1010835,Cereals,Dominicks,2.3859,2.8535
+1011139,Cereals,Budweiser,1.4903,4.0245
+1011377,Cereals,Sunbeam,2.0843,7.845
+1011709,Cereals,Quaker,2.104,5.568
+1012409,Cereals,Keebler,2.3948,4.842
+1012428,Cereals,Miller,1.7018,4.2005
+1012952,Cereals,Unilever,2.0307,2.165
+1013827,Cereals,Colgate,1.8206,4.1035
+1014086,Cereals,Keebler,2.3943,3.648
+1014760,Cereals,Campbells,1.3882,6.592
+1015484,Cereals,Budweiser,1.8637,6.532
+1015902,Cereals,Dominicks,3.8764,2.443
+1016683,Cereals,Cheer,1.2379,5.012
+1016931,Cereals,Nabisco,4.4193,2.7725
+1017666,Cereals,P&G,1.6368,3.854
+1018497,Cereals,Pepsi,1.4357,4.011
+1018637,Cereals,Charmin,2.7305,4.658
+1019102,Cereals,Miller,1.8953,3.8845
+1019889,Cereals,Charmin,3.4921,11.507
+1020743,Cereals,Campbells,2.699,2.921
+1020792,Cereals,Miller,1.965,4.002
+1021314,Cereals,Heinz,2.4731,3.111
+1021797,Cereals,Generic,2.4101,1.049
+1022024,Cereals,Tide,1.1685,2.313
+1022235,Cereals,Bounty,2.1159,3.372
+1022949,Cereals,Sunbeam,3.5232,6.319
+1023432,Cereals,Keebler,1.9349,3.118
+1023593,Cereals,Lean Cuisine,3.2397,5.6275
+1023714,Cereals,Budweiser,2.2554,4.443
+1024578,Cereals,Sunbeam,1.5971,5.845
+1025294,Cereals,Post,1.9448,2.73
+1025413,Cereals,Charmin,2.5906,1.54
+1026101,Cereals,Bounty,1.2352,2.785
+1026750,Cereals,Post,3.0984,4.597
+1027355,Cereals,Lean Cuisine,2.1952,3.7705
+1027638,Cereals,Pepsi,3.3495,6.069
+1027984,Cereals,Kraft,2.3448,3.669
+1028571,Cereals,Generic,3.9358,3.4535
+1028680,Cereals,P&G,2.419,7.4545
+1028768,Cereals,Nabisco,2.6765,2.234
+1029167,Cereals,Bounty,2.388,2.085
+1029783,Cereals,Cheer,2.4587,4.427
+1030383,Cereals,Marlboro,2.2456,4.11
+1031152,Cereals,Heinz,2.267,3.7625
+1031187,Cereals,Pepsi,0.9516,2.168
+1031409,Cereals,General Mills,3.331,3.107
+1032038,Cereals,Nabisco,1.7508,6.8865
+1032443,Cereals,Pepsi,3.6446,2.522
+1033082,Cereals,Lean Cuisine,2.2769,2.941
+1033496,Cereals,Healthy Choice,1.8682,3.462
+1034378,Cereals,Charmin,3.3189,3.859
+1034866,Cereals,Colgate,2.6495,5.031
+1035712,Cereals,Nabisco,2.4262,6.756
+1036565,Cereals,Cheer,2.5334,2.5505
+1037137,Cereals,Pepsi,2.0722,2.085
+1037407,Cereals,Campbells,2.1163,5.034
+1037917,Cereals,Charmin,3.1225,4.2345
+1038096,Cereals,Campbells,2.3656,8.5165
+1038759,Cereals,Coca-Cola,2.6639,3.2295
+1039227,Cereals,Unilever,2.5942,4.274
+1039985,Cereals,Post,1.1474,3.0875
+1040797,Cereals,Kellogg,1.8912,2.033
+1040937,Cereals,Miller,2.64,2.8315
+1041320,Cereals,Colgate,2.2948,1.9715
+1041897,Cereals,Miller,2.9659,4.373
+1042725,Cereals,Generic,2.2173,1.83
+1043616,Cereals,Bounty,2.5118,5.734
+1044049,Cereals,Keebler,1.3237,3.072
+1044092,Cereals,Kraft,1.7973,5.156
+1044336,Cereals,Tide,2.2431,3.7665
+1044940,Cereals,Marlboro,2.6076,4.421
+1045240,Cereals,Keebler,1.7436,6.956
+1046058,Cereals,Coca-Cola,2.5069,2.5075
+1046625,Cereals,Marlboro,1.8773,5.798
+1046650,Cereals,Miller,2.4968,2.063
+1046805,Cereals,Healthy Choice,2.107,2.07
+1047236,Cereals,Budweiser,1.5766,2.293
+1047305,Cereals,Coca-Cola,3.5394,2.269
+1047894,Cereals,Coca-Cola,2.0793,6.493
+1047901,Cereals,Coca-Cola,2.4996,3.7015
+1048788,Cereals,Colgate,1.8602,2.791
+1049275,Cereals,Nestle,2.717,4.5025
+1049612,Cereals,Tylenol,1.8106,2.088
+1050278,Cereals,Lean Cuisine,1.9735,3.711
+1050838,Cereals,Nabisco,1.9987,2.762
+1051468,Cereals,P&G,4.1684,2.3625
+1051783,Cereals,Kimberly,2.2557,3.0625
+1052563,Cereals,Kraft,3.7896,5.164
+1053290,Cereals,Budweiser,1.2005,3.2655
+1053347,Cereals,Tylenol,1.5243,6.569
+1053677,Cereals,Crest,3.2184,3.166
+1054083,Cereals,Campbells,2.3008,3.453
+1054341,Cereals,Tylenol,0.7349,4.022
+1054537,Cereals,Quaker,2.6239,2.6845
+1054829,Cereals,Crest,2.1377,3.949
+1055401,Cereals,Nabisco,2.0394,5.2785
+1056134,Cereals,Cheer,1.9504,5.6245
+1056423,Soft Drinks,Sunbeam,1.7146,2.342
+1057286,Soft Drinks,Cheer,2.1214,2.3
+1057997,Soft Drinks,Colgate,1.6492,2.23
+1058054,Soft Drinks,Nabisco,2.2613,2.3945
+1058317,Soft Drinks,Coca-Cola,1.3163,2.537
+1058759,Soft Drinks,Campbells,3.1261,1.8075
+1059297,Soft Drinks,Tide,2.8646,1.855
+1059596,Soft Drinks,Keebler,2.6631,3.025
+1059885,Soft Drinks,Pepsi,1.2446,2.739
+1059916,Soft Drinks,Healthy Choice,1.1093,4.856
+1060362,Soft Drinks,Kellogg,1.6242,4.815
+1061058,Soft Drinks,Cheer,3.6949,1.799
+1061132,Soft Drinks,Crest,3.199,3.453
+1061673,Soft Drinks,Bounty,1.2434,3.196
+1062019,Soft Drinks,Kellogg,3.3423,2.0495
+1062684,Soft Drinks,Coca-Cola,1.6163,2.5965
+1062741,Soft Drinks,Kraft,3.588,1.626
+1062758,Soft Drinks,Quaker,2.2374,3.507
+1062909,Soft Drinks,Marlboro,2.5702,1.9725
+1063176,Soft Drinks,Generic,2.9437,1.848
+1063939,Soft Drinks,P&G,2.6143,1.924
+1064297,Soft Drinks,Bounty,2.0835,2.4455
+1065129,Soft Drinks,Bounty,1.9198,2.614
+1065497,Soft Drinks,Heinz,1.6164,2.7725
+1065738,Soft Drinks,Kraft,2.3661,2.141
+1066398,Soft Drinks,Budweiser,2.5522,3.983
+1067252,Soft Drinks,Quaker,2.1229,2.829
+1067970,Soft Drinks,Kellogg,2.3839,2.29
+1068695,Soft Drinks,Healthy Choice,2.9548,2.7095
+1069244,Soft Drinks,Tylenol,2.991,2.2765
+1069550,Soft Drinks,Tylenol,1.0606,2.5655
+1070167,Soft Drinks,Kellogg,2.3501,1.9515
+1070478,Soft Drinks,Cheer,2.2412,2.016
+1070901,Soft Drinks,Coca-Cola,1.1594,3.298
+1071696,Soft Drinks,Coca-Cola,2.5015,2.3825
+1072485,Soft Drinks,Coca-Cola,2.4792,1.706
+1073332,Soft Drinks,Colgate,1.9299,1.063
+1073888,Soft Drinks,Bounty,1.8017,2.318
+1074361,Soft Drinks,Lean Cuisine,2.2313,1.5
+1075045,Soft Drinks,General Mills,1.5171,5.267
+1075393,Soft Drinks,Tide,1.8517,1.9705
+1075799,Soft Drinks,P&G,3.3564,4.236
+1076100,Soft Drinks,Tide,2.1796,2.3975
+1076800,Soft Drinks,Cheer,2.343,2.997
+1077125,Soft Drinks,Coca-Cola,2.7845,3.8185
+1077274,Soft Drinks,Sunbeam,2.4772,3.572
+1077278,Soft Drinks,Colgate,2.592,3.935
+1077758,Soft Drinks,Unilever,2.632,0.7235
+1078504,Soft Drinks,Kimberly,3.9691,2.0145
+1079219,Soft Drinks,General Mills,1.7127,4.534
+1079479,Soft Drinks,Budweiser,3.0011,2.0
+1079537,Soft Drinks,Heinz,2.7707,3.091
+1080120,Soft Drinks,Colgate,2.6731,3.81
+1080660,Soft Drinks,Marlboro,2.5586,2.7735
+1081186,Soft Drinks,General Mills,2.0221,2.923
+1082078,Soft Drinks,Lean Cuisine,3.2752,4.3065
+1082434,Soft Drinks,Campbells,2.9983,3.337
+1083250,Soft Drinks,Kraft,2.2084,2.25
+1083995,Soft Drinks,Post,1.5293,2.231
+1084015,Soft Drinks,Nestle,1.6365,1.432
+1084172,Soft Drinks,Coca-Cola,2.4734,2.2835
+1084780,Soft Drinks,Lean Cuisine,1.0079,1.222
+1085451,Soft Drinks,Tide,1.96,3.666
+1085812,Soft Drinks,Charmin,1.9494,2.552
+1085973,Soft Drinks,Sunbeam,2.4068,1.8465
+1086415,Soft Drinks,Nestle,1.6722,2.6815
+1087257,Soft Drinks,Generic,4.04,1.252
+1087944,Soft Drinks,Marlboro,2.4366,3.3845
+1088361,Soft Drinks,Quaker,1.9209,4.246
+1089135,Soft Drinks,Crest,2.2939,2.98
+1089765,Soft Drinks,Heinz,2.4607,2.98
+1089940,Soft Drinks,Kellogg,2.4185,2.103
+1090784,Soft Drinks,Pepsi,1.4247,2.626
+1091382,Soft Drinks,Healthy Choice,2.2744,2.918
+1091649,Soft Drinks,Miller,3.5316,2.042
+1092115,Soft Drinks,Miller,2.7437,4.001
+1092306,Soft Drinks,General Mills,1.7424,1.746
+1093055,Soft Drinks,Sunbeam,1.5222,4.349
+1093257,Soft Drinks,P&G,2.5918,3.3
+1093397,Soft Drinks,Cheer,2.1874,3.197
+1093488,Soft Drinks,General Mills,1.0217,4.796
+1093622,Soft Drinks,Cheer,2.1513,2.025
+1094114,Soft Drinks,Lean Cuisine,3.5172,2.594
+1094789,Soft Drinks,Colgate,2.8793,2.658
+1095473,Soft Drinks,Post,2.9463,4.639
+1095833,Soft Drinks,Unilever,2.3676,3.268
+1096690,Soft Drinks,Generic,2.0351,0.8155
+1096891,Soft Drinks,Sunbeam,4.0584,1.818
+1097226,Soft Drinks,Healthy Choice,2.233,2.8595
+1097665,Soft Drinks,Cheer,2.3956,1.469
+1098344,Soft Drinks,Cheer,2.7413,1.628
+1098953,Soft Drinks,Crest,2.6867,2.885
+1099709,Soft Drinks,P&G,3.6811,3.662
+1099765,Soft Drinks,Keebler,1.5829,2.328
+1100140,Soft Drinks,Dominicks,1.7873,1.638
+1100263,Soft Drinks,Kraft,2.5179,1.876
+1101099,Soft Drinks,Marlboro,1.4558,3.006
+1101191,Soft Drinks,General Mills,2.2534,1.684
+1101286,Soft Drinks,Nestle,2.8372,3.3885
+1101648,Soft Drinks,Keebler,1.6514,3.1425
+1101943,Soft Drinks,Keebler,1.7034,1.161
+1102302,Soft Drinks,Keebler,3.2341,3.195
+1102332,Soft Drinks,Quaker,2.0208,2.111
+1102902,Soft Drinks,Nestle,3.4397,1.481
+1103249,Soft Drinks,Nabisco,2.3279,2.004
+1103562,Soft Drinks,Bounty,2.9127,4.562
+1104265,Soft Drinks,Charmin,2.7885,2.4685
+1105099,Soft Drinks,Coca-Cola,2.5917,5.389
+1105928,Soft Drinks,Quaker,2.1747,2.597
+1106435,Soft Drinks,Crest,2.4335,1.264
+1106947,Soft Drinks,Heinz,2.4375,2.54
+1107456,Soft Drinks,Miller,2.9627,1.2205
+1107527,Soft Drinks,Sunbeam,1.0664,1.723
+1108317,Soft Drinks,Tylenol,1.6254,2.373
+1109136,Soft Drinks,Campbells,1.857,2.287
+1109851,Soft Drinks,Post,2.5994,4.894
+1110308,Soft Drinks,Nabisco,1.292,1.956
+1110648,Soft Drinks,Pepsi,2.1148,2.824
+1111166,Soft Drinks,Kraft,2.6777,1.778
+1111532,Soft Drinks,Campbells,2.1635,4.0245
+1111857,Soft Drinks,Campbells,3.9867,2.9965
+1112751,Soft Drinks,Budweiser,2.0802,3.537
+1113032,Soft Drinks,Sunbeam,1.9922,2.914
+1113174,Soft Drinks,Post,2.9637,2.389
+1113331,Soft Drinks,Generic,1.4434,2.627
+1113590,Soft Drinks,Kraft,2.9142,3.613
+1114148,Soft Drinks,Unilever,2.4746,2.564
+1114640,Soft Drinks,Sunbeam,2.0694,3.944
+1115416,Soft Drinks,Tylenol,2.4718,2.6805
+1115488,Soft Drinks,Healthy Choice,2.5848,4.303
+1116262,Soft Drinks,Dominicks,2.6702,3.726
+1116727,Soft Drinks,P&G,2.0486,2.878
+1116863,Soft Drinks,Kraft,2.7072,2.825
+1117427,Soft Drinks,Bounty,3.2823,1.479
+1117530,Soft Drinks,Post,2.1306,4.5745
+1117872,Soft Drinks,Coca-Cola,1.8019,5.2615
+1118020,Soft Drinks,Nabisco,1.65,4.023
+1118863,Soft Drinks,Nestle,2.0316,2.822
+1119114,Soft Drinks,Generic,2.4769,1.243
+1119495,Soft Drinks,Lean Cuisine,4.0014,3.0665
+1119513,Soft Drinks,Keebler,2.2526,2.097
+1120253,Soft Drinks,Lean Cuisine,2.3728,2.485
+1120526,Soft Drinks,Crest,2.6363,3.657
+1120861,Soft Drinks,Marlboro,1.4065,1.641
+1121400,Soft Drinks,Lean Cuisine,2.1396,4.775
+1122073,Soft Drinks,Healthy Choice,3.5601,1.927
+1122430,Soft Drinks,Cheer,1.7272,2.683
+1123068,Soft Drinks,Lean Cuisine,1.9402,2.882
+1123414,Soft Drinks,Coca-Cola,2.5437,1.765
+1123848,Soft Drinks,Quaker,1.9494,1.697
+1124155,Cheeses,Crest,2.3145,4.4305
+1124374,Cheeses,Kraft,3.0078,3.971
+1125148,Cheeses,Tylenol,2.0978,5.199
+1125597,Cheeses,Kellogg,2.2052,1.478
+1126052,Cheeses,Heinz,2.773,5.833
+1126483,Cheeses,Keebler,3.7445,5.437
+1127125,Cheeses,Dominicks,3.3593,3.798
+1128020,Cheeses,Coca-Cola,3.3276,4.194
+1128587,Cheeses,Sunbeam,1.4244,2.885
+1128742,Cheeses,Lean Cuisine,1.8474,3.41
+1129346,Cheeses,Kraft,2.4717,6.41
+1130168,Cheeses,Cheer,1.6456,2.766
+1130674,Cheeses,Tide,2.5074,2.2115
+1131372,Cheeses,Quaker,3.0442,2.469
+1131701,Cheeses,Generic,2.7231,3.26
+1132169,Cheeses,Heinz,3.0274,2.1945
+1132327,Cheeses,Kraft,1.7874,2.379
+1132906,Cheeses,Pepsi,3.4802,4.28
+1133799,Cheeses,Healthy Choice,2.1391,5.719
+1133981,Cheeses,Campbells,2.0891,4.1305
+1134554,Cheeses,Tide,2.8153,3.776
+1135403,Cheeses,Kimberly,2.7065,4.316
+1136111,Cheeses,Budweiser,0.86,5.812
+1136877,Cheeses,Post,1.7345,7.0145
+1137362,Cheeses,Lean Cuisine,3.0368,5.325
+1138018,Cheeses,General Mills,0.9183,2.295
+1138400,Cheeses,Coca-Cola,2.1768,4.962
+1138925,Cheeses,Nestle,2.0572,5.939
+1139154,Cheeses,Bounty,2.4533,5.551
+1139804,Cheeses,Pepsi,3.2107,3.722
+1140006,Cheeses,Post,2.2917,3.859
+1140715,Cheeses,Marlboro,1.2424,4.5365
+1140929,Cheeses,Marlboro,1.6736,3.002
+1141129,Cheeses,Colgate,1.92,3.114
+1141805,Cheeses,Kellogg,2.2254,5.292
+1142480,Cheeses,Bounty,2.6449,4.1335
+1142850,Cheeses,Heinz,2.0601,2.62
+1143712,Cheeses,Coca-Cola,2.0616,4.1575
+1143769,Cheeses,Budweiser,2.7714,4.5985
+1144085,Cheeses,Coca-Cola,2.0134,4.023
+1144830,Cheeses,Kraft,3.745,7.0115
+1144896,Cheeses,Post,2.3585,3.452
+1144932,Cheeses,Marlboro,2.0107,3.812
+1145574,Cheeses,Healthy Choice,2.3702,3.62
+1145955,Cheeses,Pepsi,1.7708,5.75
+1146573,Cheeses,P&G,1.7698,3.247
+1147159,Cheeses,Kimberly,3.5539,3.167
+1147659,Cheeses,Nabisco,1.7759,3.9665
+1148163,Cheeses,Miller,2.9099,3.336
+1148243,Cheeses,Colgate,1.5248,3.272
+1148730,Cheeses,Keebler,1.673,4.2955
+1149207,Cheeses,Generic,0.796,3.832
+1149671,Cheeses,Kimberly,2.4944,5.892
+1150078,Cheeses,Campbells,2.137,4.7855
+1150564,Cheeses,Lean Cuisine,2.0813,4.32
+1151411,Cheeses,Campbells,2.399,3.494
+1151551,Cheeses,Dominicks,2.9453,3.4135
+1152232,Cheeses,Crest,2.4694,5.291
+1152808,Cheeses,Quaker,0.9756,5.3015
+1153384,Cheeses,Campbells,2.83,6.082
+1154228,Cheeses,Nabisco,2.4112,2.8485
+1154947,Cheeses,General Mills,2.498,4.749
+1155320,Cheeses,Campbells,3.018,2.829
+1155437,Cheeses,Bounty,1.5075,1.908
+1155598,Cheeses,Kellogg,2.7697,3.052
+1155847,Cheeses,Kellogg,2.6119,3.65
+1156315,Cheeses,Marlboro,2.5373,2.663
+1157038,Cheeses,Coca-Cola,2.5376,6.113
+1157845,Cheeses,Dominicks,1.5929,2.385
+1158385,Cheeses,P&G,1.3106,7.221
+1159046,Cheeses,General Mills,2.5709,3.29
+1159442,Cheeses,Tide,3.1006,2.235
+1160220,Cheeses,Keebler,1.3178,1.8
+1160423,Cheeses,Pepsi,3.0668,3.331
+1160971,Cheeses,Kimberly,2.4276,5.9795
+1160984,Cheeses,Healthy Choice,2.7283,2.93
+1161046,Cheeses,Unilever,2.0905,1.324
+1161561,Cheeses,Budweiser,3.1795,6.964
+1162212,Cheeses,Bounty,2.8947,3.1805
+1162545,Cheeses,Tylenol,1.4218,2.889
+1163397,Cheeses,Unilever,1.5049,2.581
+1163954,Cheeses,Coca-Cola,1.1538,1.832
+1164558,Cheeses,Miller,2.478,2.8655
+1165237,Cheeses,Bounty,2.9778,4.188
+1165958,Cheeses,Sunbeam,2.087,3.152
+1166399,Cheeses,Cheer,2.3047,4.559
+1166590,Cheeses,Nabisco,3.5687,3.561
+1166621,Cheeses,Colgate,3.5122,2.003
+1166925,Cheeses,Nabisco,1.7329,3.166
+1167403,Cheeses,Pepsi,1.4269,2.938
+1167493,Cheeses,Heinz,2.631,4.1725
+1168181,Cheeses,Heinz,2.0385,3.185
+1168512,Cheeses,Nabisco,2.2614,4.248
+1169400,Cheeses,Post,3.5728,4.78
+1169664,Cheeses,Keebler,2.7333,5.108
+1169748,Cheeses,Kellogg,2.2973,2.906
+1170402,Cheeses,Unilever,1.9627,4.7075
+1170754,Cheeses,Kimberly,2.4442,6.111
+1171262,Cheeses,Dominicks,2.555,2.463
+1171870,Cheeses,Bounty,1.4468,7.599
+1171963,Cheeses,Unilever,2.8738,4.573
+1172273,Cheeses,Charmin,2.386,13.027
+1172542,Cheeses,Nestle,1.3896,2.061
+1173185,Cheeses,Keebler,2.2094,5.445
+1173591,Cheeses,Marlboro,1.3774,5.774
+1173629,Cheeses,Lean Cuisine,2.274,3.9385
+1174007,Cheeses,Tylenol,1.5025,2.8045
+1174032,Cheeses,Cheer,1.9983,5.095
+1174872,Cheeses,Colgate,2.9537,4.135
+1175678,Cheeses,Coca-Cola,1.1697,5.2655
+1176512,Beer,Generic,2.8496,5.8
+1177103,Beer,Miller,1.8335,11.443
+1177780,Beer,Cheer,2.6848,8.335
+1178020,Beer,Unilever,2.8892,7.26
+1178702,Beer,Colgate,2.3441,5.273
+1179155,Beer,Heinz,2.3832,8.1125
+1179758,Beer,Generic,2.0136,4.638
+1180512,Beer,Kimberly,2.2205,9.735
+1180663,Beer,Kimberly,1.7423,9.9065
+1180718,Beer,Kraft,2.9462,9.113
+1181060,Beer,Coca-Cola,1.8709,7.564
+1181352,Beer,Crest,3.2708,5.7545
+1181585,Beer,Keebler,1.8324,10.745
+1182421,Beer,Crest,1.5174,4.787
+1182918,Beer,P&G,2.0612,8.2665
+1182955,Beer,Coca-Cola,1.1432,3.617
+1183318,Beer,P&G,2.9031,7.442
+1183802,Beer,Unilever,1.1363,7.0955
+1184429,Beer,Tide,2.1815,6.463
+1184910,Beer,Kellogg,1.9918,10.148
+1185730,Beer,Heinz,3.2075,7.542
+1186618,Beer,Kellogg,2.3085,7.024
+1186693,Beer,Healthy Choice,1.7957,7.135
+1187372,Beer,Bounty,3.9404,9.209
+1188048,Beer,Budweiser,1.7397,4.813
+1188682,Beer,Miller,2.1401,6.7145
+1188859,Beer,Generic,2.6308,3.9275
+1189137,Beer,Miller,3.1661,5.43
+1190026,Beer,Sunbeam,1.5308,8.803
+1190420,Beer,Heinz,0.8233,10.163
+1191164,Beer,Post,2.8151,6.4965
+1191424,Beer,Coca-Cola,1.6205,5.91
+1191450,Beer,Campbells,3.7441,9.153
+1191640,Beer,Coca-Cola,3.1811,10.636
+1191918,Beer,Pepsi,3.0231,7.9505
+1192252,Beer,Budweiser,2.0112,12.9625
+1192262,Beer,Healthy Choice,2.2093,21.3565
+1192344,Beer,P&G,2.6487,2.671
+1192602,Beer,Heinz,2.9525,7.031
+1192739,Beer,Sunbeam,2.5863,7.097
+1193426,Beer,Tide,3.2486,15.262
+1193843,Beer,Miller,0.9238,3.01
+1194036,Beer,Marlboro,2.5904,12.356
+1194252,Beer,Quaker,2.9452,8.969
+1194555,Beer,Lean Cuisine,2.2615,14.6145
+1194880,Beer,Colgate,3.3386,6.57
+1195233,Beer,Charmin,1.5309,8.683
+1196036,Beer,Dominicks,3.1946,5.487
+1196518,Beer,Kimberly,4.1921,4.898
+1197003,Beer,Crest,2.879,7.6865
+1197690,Beer,Coca-Cola,0.8312,8.308
+1198500,Beer,Coca-Cola,2.1641,7.011
+1199303,Beer,Healthy Choice,1.3251,5.83
+1200164,Beer,Kraft,2.8276,6.847
+1200172,Beer,Dominicks,1.941,5.794
+1200687,Beer,Keebler,3.1174,8.66
+1200859,Beer,Budweiser,2.0908,5.158
+1201107,Beer,Generic,3.4439,4.332
+1201273,Beer,Dominicks,1.7541,3.162
+1201808,Beer,Cheer,2.1746,3.105
+1202048,Beer,Tylenol,1.9858,9.02
+1202385,Beer,Tylenol,1.5779,5.116
+1203155,Beer,Tylenol,1.702,4.988
+1203703,Beer,Kraft,2.6832,8.2075
+1204595,Beer,Charmin,2.1123,11.5985
+1204628,Beer,Heinz,2.7296,5.793
+1205222,Beer,Sunbeam,1.169,7.2095
+1205601,Beer,Tide,1.4803,5.4905
+1206424,Beer,Charmin,2.4052,7.444
+1206757,Beer,Cheer,1.7057,9.811
+1206988,Beer,Marlboro,3.6562,7.492
+1207005,Beer,Kimberly,2.2602,6.883
+1207291,Beer,Bounty,2.3276,11.284
+1207767,Beer,General Mills,3.1067,11.352
+1207987,Beer,Keebler,2.7002,3.231
+1208611,Beer,Tide,3.0812,8.277
+1208717,Beer,Lean Cuisine,3.6091,9.534
+1208757,Beer,Nabisco,2.3214,7.332
+1209186,Beer,Nestle,2.2216,3.843
+1209959,Beer,Cheer,2.1932,11.118
+1210739,Beer,Crest,2.4711,12.953
+1211430,Beer,Heinz,1.3348,6.3915
+1211765,Beer,Campbells,2.9406,8.233
+1212366,Beer,Healthy Choice,1.2538,7.785
+1213074,Beer,Budweiser,2.6644,6.6935
+1213519,Beer,Post,3.4437,9.425
+1214341,Beer,Kimberly,1.7127,11.168
+1215179,Beer,Pepsi,3.9972,3.7265
+1216073,Beer,Post,1.7485,7.5185
+1216543,Beer,Tide,3.0732,14.143
+1217287,Beer,Lean Cuisine,3.3502,8.141
+1218080,Beer,Kimberly,2.6589,5.255
+1218292,Beer,Nestle,1.0724,5.221
+1218648,Beer,Charmin,2.5596,14.306
+1219158,Beer,Tide,1.5157,4.912
+1219223,Beer,Tylenol,1.1978,5.6125
+1219503,Beer,Quaker,1.8557,9.676
+1220174,Beer,Budweiser,2.2191,7.518
+1220879,Beer,Lean Cuisine,1.7539,6.53
+1221340,Beer,Tylenol,2.8519,10.4
+1222061,Laundry Detergents,Nestle,2.7558,8.9155
+1222681,Laundry Detergents,Kellogg,2.2264,5.514
+1222963,Laundry Detergents,Dominicks,1.5575,4.831
+1223837,Laundry Detergents,Colgate,2.3215,15.149
+1224311,Laundry Detergents,Generic,2.5768,6.321
+1224773,Laundry Detergents,Tide,1.9921,6.771
+1225052,Laundry Detergents,Pepsi,2.8723,6.9995
+1225322,Laundry Detergents,General Mills,2.6378,9.144
+1225555,Laundry Detergents,Healthy Choice,2.1353,4.1405
+1225714,Laundry Detergents,Unilever,1.2562,4.6005
+1226605,Laundry Detergents,Kellogg,2.2801,4.928
+1226680,Laundry Detergents,Campbells,2.3902,10.758
+1227074,Laundry Detergents,Budweiser,3.2039,10.321
+1227141,Laundry Detergents,Bounty,2.5433,8.869
+1227412,Laundry Detergents,Heinz,2.2357,9.896
+1227733,Laundry Detergents,Charmin,1.5715,8.1705
+1227819,Laundry Detergents,Budweiser,2.0193,4.21
+1228438,Laundry Detergents,Quaker,1.4884,14.666
+1228641,Laundry Detergents,Generic,1.9281,10.642
+1229206,Laundry Detergents,Charmin,1.7152,18.407
+1229613,Laundry Detergents,Quaker,3.0265,5.22
+1230271,Laundry Detergents,Kimberly,2.0157,12.601
+1230701,Laundry Detergents,Charmin,2.4969,11.357
+1231532,Laundry Detergents,Miller,2.0262,7.552
+1231586,Laundry Detergents,Nabisco,2.8964,7.559
+1231788,Laundry Detergents,Charmin,2.251,9.372
+1232234,Laundry Detergents,Cheer,1.7,9.4105
+1232625,Laundry Detergents,Lean Cuisine,2.6303,11.531
+1232695,Laundry Detergents,Heinz,3.4424,7.5955
+1233429,Laundry Detergents,Charmin,2.7391,6.432
+1234311,Laundry Detergents,Campbells,3.0381,9.49
+1234686,Laundry Detergents,Unilever,3.5686,5.701
+1235487,Laundry Detergents,Nabisco,1.9403,5.96
+1235736,Laundry Detergents,Colgate,2.9109,8.015
+1236016,Laundry Detergents,Colgate,1.6787,4.4795
+1236863,Laundry Detergents,Healthy Choice,1.2446,18.3985
+1237354,Laundry Detergents,Generic,1.5824,4.217
+1237539,Laundry Detergents,Charmin,3.1791,9.372
+1237974,Laundry Detergents,Tylenol,1.9317,11.3045
+1238804,Laundry Detergents,Marlboro,3.0601,7.792
+1239103,Laundry Detergents,Pepsi,3.5655,15.594
+1239741,Laundry Detergents,Charmin,1.4045,8.547
+1239973,Laundry Detergents,Miller,2.6476,22.566
+1240509,Laundry Detergents,Kimberly,1.8134,9.373
+1241150,Laundry Detergents,Post,2.0068,10.054
+1241352,Laundry Detergents,Generic,2.9271,6.654
+1241838,Laundry Detergents,Heinz,2.4572,7.797
+1242537,Laundry Detergents,Keebler,2.2432,5.872
+1242831,Laundry Detergents,Tide,3.0554,6.1715
+1242924,Laundry Detergents,Coca-Cola,1.4126,10.2265
+1243817,Laundry Detergents,Kraft,2.3501,6.713
+1244654,Laundry Detergents,Campbells,2.2823,6.5605
+1244813,Laundry Detergents,Marlboro,1.6102,15.272
+1244875,Laundry Detergents,Keebler,1.8611,8.366
+1245710,Laundry Detergents,Nestle,2.0536,10.0635
+1246137,Laundry Detergents,Coca-Cola,1.7371,11.603
+1246559,Laundry Detergents,Tide,3.5722,12.681
+1247091,Laundry Detergents,Colgate,2.4769,6.9585
+1247496,Laundry Detergents,Miller,2.9341,9.9425
+1247581,Laundry Detergents,Nabisco,1.661,3.187
+1247740,Laundry Detergents,Colgate,2.3913,10.212
+1248283,Laundry Detergents,Keebler,3.3697,9.753
+1248401,Laundry Detergents,Healthy Choice,2.2776,7.677
+1248974,Laundry Detergents,Tide,1.4029,8.659
+1249134,Laundry Detergents,Nabisco,3.4405,6.2505
+1249932,Laundry Detergents,Nestle,3.3151,4.899
+1250112,Laundry Detergents,Pepsi,3.5496,10.383
+1250511,Laundry Detergents,Pepsi,1.5379,6.534
+1250642,Laundry Detergents,Healthy Choice,3.6957,6.836
+1251376,Laundry Detergents,Post,3.05,6.578
+1252072,Laundry Detergents,Cheer,2.4071,22.4825
+1252775,Laundry Detergents,Charmin,2.6463,7.725
+1253128,Laundry Detergents,P&G,2.6143,3.7935
+1253548,Laundry Detergents,Tide,1.4958,7.824
+1253599,Laundry Detergents,Sunbeam,2.5651,7.355
+1253899,Laundry Detergents,Nabisco,1.6908,8.1465
+1254436,Laundry Detergents,Budweiser,2.5078,7.374
+1255042,Laundry Detergents,Generic,2.9317,6.8515
+1255754,Laundry Detergents,Nabisco,1.9391,7.0095
+1255872,Laundry Detergents,Healthy Choice,2.043,6.581
+1256120,Laundry Detergents,Healthy Choice,2.3259,18.467
+1256819,Laundry Detergents,Kellogg,2.8695,19.936
+1257186,Laundry Detergents,Budweiser,2.4104,10.13
+1257353,Laundry Detergents,Pepsi,1.6081,11.1765
+1257397,Laundry Detergents,Post,1.7127,8.212
+1258281,Laundry Detergents,Sunbeam,3.0408,11.876
+1258343,Laundry Detergents,Kraft,3.709,6.4895
+1258948,Laundry Detergents,Charmin,3.0332,6.423
+1259576,Laundry Detergents,Kellogg,1.7673,10.035
+1260019,Laundry Detergents,Kellogg,2.5752,17.0765
+1260538,Toothpastes,Cheer,2.5441,3.264
+1261168,Toothpastes,Lean Cuisine,2.798,3.386
+1261652,Toothpastes,Lean Cuisine,1.8444,2.185
+1262487,Toothpastes,Post,3.2514,2.8805
+1262646,Toothpastes,Healthy Choice,1.7666,5.602
+1263319,Toothpastes,Marlboro,2.9621,2.442
+1263352,Toothpastes,Lean Cuisine,2.6457,3.047
+1263962,Toothpastes,Cheer,2.2033,2.103
+1264293,Toothpastes,Post,2.8705,3.441
+1264551,Toothpastes,Healthy Choice,1.7534,2.063
+1264672,Toothpastes,Coca-Cola,2.9387,3.559
+1265463,Toothpastes,Coca-Cola,2.5735,2.995
+1265713,Toothpastes,Nestle,1.43,2.727
+1265754,Toothpastes,Pepsi,1.3931,3.077
+1266204,Toothpastes,Kraft,1.5313,1.852
+1267067,Toothpastes,Kraft,3.1481,2.428
+1267443,Toothpastes,Charmin,2.6005,3.25
+1267476,Toothpastes,Coca-Cola,2.8822,3.5315
+1267513,Toothpastes,Post,4.0018,3.273
+1268035,Toothpastes,Tide,1.2001,2.863
+1268156,Toothpastes,Kellogg,1.4775,2.0195
+1269055,Toothpastes,Crest,1.6032,2.982
+1269162,Toothpastes,Sunbeam,2.984,3.392
+1269426,Toothpastes,Kraft,2.4352,2.594
+1270301,Toothpastes,Nabisco,2.4914,2.065
+1271063,Toothpastes,Post,2.099,1.7065
+1271687,Toothpastes,Kellogg,2.4877,6.1795
+1272160,Toothpastes,Nestle,2.5931,4.893
+1272335,Toothpastes,Coca-Cola,2.115,2.4745
+1272866,Toothpastes,Colgate,3.0824,1.796
+1273048,Toothpastes,Keebler,1.95,2.415
+1273659,Toothpastes,Unilever,3.0557,3.996
+1274280,Toothpastes,Colgate,2.7921,2.596
+1274678,Toothpastes,Bounty,2.0165,3.238
+1275229,Toothpastes,Kellogg,4.6028,5.719
+1275489,Toothpastes,Keebler,1.9696,3.602
+1276334,Toothpastes,Sunbeam,2.9214,2.606
+1276963,Toothpastes,Budweiser,1.323,4.1295
+1277034,Toothpastes,Miller,2.7396,3.639
+1277506,Toothpastes,General Mills,2.3709,2.555
+1278157,Toothpastes,Coca-Cola,2.7135,2.8105
+1278208,Toothpastes,Marlboro,3.5757,2.473
+1278465,Toothpastes,Unilever,2.6805,2.601
+1278606,Toothpastes,Miller,1.7572,3.198
+1278770,Toothpastes,Charmin,2.5383,2.2305
+1279067,Toothpastes,Nabisco,2.6586,3.007
+1279860,Toothpastes,Crest,2.2137,2.497
+1280541,Toothpastes,Sunbeam,2.0073,2.2675
+1280686,Toothpastes,Generic,2.4687,1.8805
+1281498,Toothpastes,Post,2.6001,2.23
+1282156,Toothpastes,Lean Cuisine,1.3354,1.611
+1282437,Toothpastes,Nestle,1.7203,3.428
+1283058,Toothpastes,Campbells,1.7833,2.358
+1283567,Toothpastes,Crest,3.5483,1.785
+1284279,Toothpastes,Dominicks,2.4506,2.0675
+1284829,Toothpastes,Quaker,3.0124,2.829
+1285639,Toothpastes,Campbells,1.6923,2.809
+1286286,Toothpastes,Lean Cuisine,3.6823,3.188
+1286829,Toothpastes,Healthy Choice,1.4876,4.55
+1287509,Toothpastes,Unilever,3.7614,2.898
+1288267,Toothpastes,Coca-Cola,2.1271,2.851
+1288367,Toothpastes,Tylenol,1.2707,2.32
+1288373,Toothpastes,Pepsi,2.4852,3.565
+1288907,Toothpastes,Dominicks,2.3647,1.924
+1289310,Toothpastes,Dominicks,3.8607,1.2965
+1289743,Toothpastes,Pepsi,1.3361,4.6035
+1289878,Toothpastes,Bounty,1.038,3.358
+1290711,Toothpastes,Campbells,2.9343,2.814
+1290977,Toothpastes,Generic,2.8374,3.334
+1291413,Toothpastes,Dominicks,1.4963,2.163
+1292213,Toothpastes,Nabisco,3.0726,3.04
+1292446,Toothpastes,Pepsi,3.343,3.426
+1292806,Toothpastes,Kimberly,2.6443,2.964
+1293508,Toothpastes,Nabisco,1.9638,3.37
+1293937,Toothpastes,Generic,2.204,2.3665
+1294197,Toothpastes,Kellogg,2.1225,2.707
+1294421,Toothpastes,Tide,1.2539,6.024
+1294717,Toothpastes,Kellogg,2.5748,2.634
+1295474,Toothpastes,Colgate,1.87,3.857
+1295881,Toothpastes,Campbells,2.1311,2.646
+1296012,Toothpastes,Kraft,1.8382,5.0795
+1296387,Toothpastes,Colgate,2.1454,1.5285
+1296968,Toothpastes,Cheer,2.4573,4.268
+1297017,Toothpastes,Cheer,2.8431,4.519
+1297865,Toothpastes,Dominicks,2.8657,2.455
+1298152,Toothpastes,Bounty,1.1521,2.719
+1298975,Toothpastes,Kimberly,3.9371,3.426
+1299354,Toothpastes,Crest,1.6585,3.11
+1300020,Toothpastes,Cheer,3.6826,2.312
+1300311,Toothpastes,Cheer,1.9662,8.409
+1300966,Analgesics,Keebler,3.4227,10.167
+1301823,Analgesics,Crest,2.9307,4.059
+1302039,Analgesics,Lean Cuisine,1.1978,4.423
+1302064,Analgesics,Campbells,2.2097,4.546
+1302283,Analgesics,Miller,3.846,4.243
+1302966,Analgesics,Quaker,2.9158,8.935
+1303695,Analgesics,Sunbeam,2.0811,5.541
+1304461,Analgesics,Healthy Choice,3.4719,3.614
+1304554,Analgesics,Lean Cuisine,2.075,5.289
+1305076,Analgesics,Healthy Choice,2.9729,9.542
+1305657,Analgesics,Dominicks,3.6518,5.438
+1306118,Analgesics,Coca-Cola,1.9902,5.8725
+1306890,Analgesics,Post,1.2036,3.331
+1307309,Analgesics,Keebler,1.1644,6.9395
+1307739,Analgesics,Colgate,2.3822,5.011
+1308450,Analgesics,Dominicks,2.0495,5.256
+1308785,Analgesics,Sunbeam,3.3978,3.753
+1309228,Analgesics,Marlboro,3.3037,2.918
+1309482,Analgesics,Kimberly,2.2924,6.811
+1310346,Analgesics,Kimberly,2.1827,4.452
+1311090,Analgesics,Pepsi,2.8571,5.496
+1311791,Analgesics,Kellogg,2.8829,5.511
+1312038,Analgesics,Kellogg,3.0215,7.945
+1312880,Analgesics,Sunbeam,2.8336,11.807
+1313161,Analgesics,Tylenol,2.1086,4.475
+1313918,Analgesics,Campbells,1.9141,4.8745
+1314177,Analgesics,Cheer,4.3859,4.392
+1314606,Analgesics,Heinz,3.3265,7.965
+1315493,Analgesics,General Mills,1.9865,5.491
+1316072,Analgesics,Post,2.6884,5.417
+1316537,Analgesics,Tide,2.2853,7.549
+1316868,Analgesics,Nabisco,2.8834,8.517
+1317260,Analgesics,Post,1.7285,6.6995
+1317571,Analgesics,Charmin,2.6347,5.702
+1317699,Analgesics,Tylenol,2.1621,11.687
+1318598,Analgesics,Dominicks,1.9117,8.0745
+1318921,Analgesics,Healthy Choice,2.7859,7.478
+1319798,Analgesics,Quaker,2.13,7.74
+1320557,Analgesics,Budweiser,1.9122,6.406
+1321116,Analgesics,General Mills,2.1065,8.364
+1321799,Analgesics,Healthy Choice,2.5112,8.657
+1322592,Analgesics,Miller,2.3922,8.0705
+1323089,Analgesics,Tylenol,2.4859,5.326
+1323684,Analgesics,Keebler,1.7855,12.2895
+1323969,Analgesics,Charmin,2.2552,7.097
+1324788,Analgesics,Heinz,2.3554,6.352
+1325193,Analgesics,Crest,2.7147,15.164
+1325261,Analgesics,Nestle,1.102,5.177
+1325930,Analgesics,Post,2.7863,5.0115
+1326793,Analgesics,Lean Cuisine,2.6488,3.984
+1327394,Analgesics,Coca-Cola,2.0139,7.002
+1328020,Analgesics,Kimberly,2.5602,8.357
+1328587,Analgesics,Sunbeam,3.244,6.076
+1328658,Analgesics,Kimberly,2.2223,5.12
+1329195,Analgesics,Nabisco,2.8188,3.501
+1329262,Analgesics,Pepsi,2.597,10.729
+1329910,Analgesics,Post,4.1254,3.371
+1329998,Analgesics,Healthy Choice,3.3298,5.035
+1330371,Analgesics,Tide,2.108,3.6905
+1330510,Analgesics,Tide,2.1036,6.594
+1330894,Analgesics,Charmin,1.3764,5.843
+1330975,Analgesics,P&G,2.6175,5.017
+1331205,Analgesics,Sunbeam,2.4204,6.22
+1332019,Analgesics,Kraft,2.4864,5.156
+1332610,Analgesics,Colgate,2.2442,5.752
+1333009,Analgesics,Miller,2.1518,13.297
+1333318,Analgesics,Tide,1.9379,2.883
+1333921,Analgesics,Keebler,2.091,9.291
+1334030,Analgesics,Tylenol,1.6648,4.132
+1334177,Analgesics,Dominicks,3.5445,4.709
+1334912,Analgesics,Kimberly,2.8335,8.016
+1335291,Analgesics,Post,1.7781,5.12
+1336130,Analgesics,Nabisco,2.577,6.789
+1336410,Analgesics,P&G,1.8214,4.498
+1336841,Analgesics,Coca-Cola,2.9612,4.617
+1337040,Analgesics,Dominicks,2.1035,9.4245
+1337437,Analgesics,Cheer,2.5212,4.307
+1338253,Analgesics,Sunbeam,3.5009,6.1095
+1338810,Analgesics,Nestle,1.4406,5.804
+1339053,Analgesics,Crest,2.8355,4.1485
+1339590,Analgesics,P&G,2.8732,3.774
+1340058,Analgesics,Charmin,1.8466,12.413
+1340187,Analgesics,Bounty,1.7129,5.503
+1340957,Analgesics,Kraft,2.3431,4.7505
+1341418,Analgesics,Keebler,2.6942,6.697
+1341811,Analgesics,Generic,2.8317,3.809
+1342457,Analgesics,Quaker,1.8651,7.8955
+1342864,Analgesics,Budweiser,2.3554,4.3655
+1342896,Analgesics,Tide,1.488,6.8625
+1343311,Analgesics,Dominicks,1.9966,1.7395
+1343429,Analgesics,Charmin,3.1386,7.839
+1344238,Analgesics,Heinz,2.9368,3.142
+1344826,Analgesics,Coca-Cola,1.1522,5.53
+1344901,Analgesics,Generic,2.1202,5.747
+1345738,Analgesics,Coca-Cola,2.9261,4.443
+1345924,Analgesics,Unilever,2.7738,9.768
+1346537,Analgesics,General Mills,3.1461,7.002
+1346859,Analgesics,Tide,2.867,4.46
+1347033,Analgesics,Generic,3.0497,4.956
+1347048,Analgesics,Keebler,1.8489,5.1345
+1347915,Canned Soup,Charmin,2.4843,0.815
+1348574,Canned Soup,Healthy Choice,2.2538,1.406
+1349138,Canned Soup,Budweiser,3.8409,1.941
+1349597,Canned Soup,Campbells,2.6766,1.034
+1349846,Canned Soup,Crest,3.1497,1.1985
+1350608,Canned Soup,Unilever,1.4774,0.743
+1351264,Canned Soup,P&G,2.7219,0.797
+1351726,Canned Soup,Keebler,1.7258,1.209
+1351843,Canned Soup,Nestle,1.0489,0.978
+1352209,Canned Soup,P&G,4.0864,1.205
+1352913,Canned Soup,Coca-Cola,3.9043,1.351
+1353110,Canned Soup,Kimberly,3.2412,1.791
+1353577,Canned Soup,Nestle,1.8502,0.6645
+1354058,Canned Soup,Nestle,2.2265,2.447
+1354242,Canned Soup,Coca-Cola,2.5494,1.7555
+1354807,Canned Soup,P&G,3.2087,1.1115
+1355539,Canned Soup,Heinz,4.7934,1.021
+1356036,Canned Soup,Miller,3.799,1.703
+1356377,Canned Soup,Unilever,3.3417,1.768
+1356440,Canned Soup,Kellogg,2.3223,1.586
+1356965,Canned Soup,Nestle,2.5604,1.097
+1357819,Canned Soup,Nabisco,3.3531,1.4035
+1358445,Canned Soup,Budweiser,3.0099,1.751
+1359302,Canned Soup,Miller,2.6343,2.016
+1360104,Canned Soup,Generic,1.9897,0.749
+1360635,Canned Soup,Healthy Choice,1.4864,1.758
+1361481,Canned Soup,Quaker,2.8805,2.8
+1362287,Canned Soup,Sunbeam,0.8216,0.851
+1362748,Canned Soup,Kimberly,1.8662,1.015
+1363273,Canned Soup,Coca-Cola,1.8015,1.012
+1363825,Canned Soup,Kraft,3.5049,1.381
+1364543,Canned Soup,Bounty,1.9748,1.7215
+1364972,Canned Soup,Tylenol,0.9135,1.2865
+1365021,Canned Soup,Dominicks,2.5147,0.91
+1365865,Canned Soup,Kellogg,1.6755,1.4505
+1366029,Canned Soup,Tide,2.4713,1.245
+1366159,Canned Soup,Tide,1.1816,2.1275
+1366907,Canned Soup,Lean Cuisine,2.7685,2.002
+1367220,Canned Soup,Colgate,1.0325,1.253
+1368041,Canned Soup,Kimberly,2.5614,0.9955
+1368161,Canned Soup,Unilever,1.557,1.369
+1368637,Canned Soup,Miller,2.9324,0.8265
+1369226,Canned Soup,Campbells,2.1274,2.354
+1369364,Canned Soup,Crest,2.2063,1.664
+1369384,Canned Soup,Budweiser,3.5867,0.856
+1369868,Canned Soup,Budweiser,1.937,0.7
+1370509,Canned Soup,Tide,2.771,1.332
+1370612,Canned Soup,Lean Cuisine,3.5224,1.452
+1370620,Canned Soup,Cheer,2.56,0.811
+1371391,Canned Soup,Nabisco,2.2378,0.833
+1371805,Canned Soup,Tylenol,1.9854,2.0525
+1372096,Canned Soup,Heinz,2.2457,0.65
+1372678,Canned Soup,Campbells,2.5701,1.1205
+1372757,Canned Soup,Sunbeam,1.4252,1.767
+1373627,Canned Soup,Miller,2.2386,1.9235
+1373914,Canned Soup,Unilever,2.6235,0.665
+1374006,Canned Soup,Crest,1.6245,1.287
+1374451,Canned Soup,Bounty,2.4416,1.169
+1374650,Canned Soup,Post,1.7963,1.189
+1374877,Canned Soup,Unilever,4.2035,1.36
+1375774,Canned Soup,Tide,2.2833,0.975
+1376369,Canned Soup,Dominicks,2.6254,0.707
+1376449,Canned Soup,P&G,1.7817,3.443
+1376623,Canned Soup,Kimberly,2.4966,0.931
+1377474,Canned Soup,Unilever,2.6552,1.36
+1377930,Canned Soup,Post,1.6374,0.946
+1377963,Canned Soup,Dominicks,1.7124,0.793
+1378355,Canned Soup,Kimberly,1.0119,0.728
+1378687,Canned Soup,Budweiser,2.9054,0.697
+1378885,Canned Soup,Coca-Cola,1.6966,1.5305
+1379614,Canned Soup,Colgate,2.4931,1.1085
+1380017,Canned Soup,Cheer,1.1762,1.115
+1380588,Canned Soup,Marlboro,2.3742,0.813
+1380828,Canned Soup,Pepsi,1.8023,1.081
+1381596,Canned Soup,Crest,2.3901,1.313
+1381778,Canned Soup,Kellogg,2.8014,1.646
+1381953,Canned Soup,Dominicks,2.6082,0.982
+1382713,Canned Soup,Nabisco,2.4444,1.3445
+1382815,Canned Soup,Coca-Cola,3.6306,0.935
+1383640,Canned Soup,Pepsi,1.5241,1.391
+1383994,Canned Soup,P&G,2.2401,1.479
+1384028,Canned Soup,General Mills,2.8212,0.5045
+1384738,Canned Soup,P&G,2.5353,1.39
+1385402,Canned Soup,Cheer,0.7944,1.34
+1385786,Canned Soup,Healthy Choice,3.3169,1.042
+1386147,Canned Soup,Tide,1.2054,1.401
+1386938,Canned Soup,Tylenol,2.161,1.982
+1387324,Canned Soup,Post,2.0787,1.5365
+1387721,Canned Soup,Quaker,2.3449,2.845
+1388178,Canned Soup,Campbells,3.254,1.273
+1388869,Canned Soup,Crest,1.9326,1.232
+1389239,Canned Soup,Campbells,4.299,0.438
+1389920,Canned Soup,Miller,3.5844,1.45
+1390110,Canned Soup,Nabisco,1.6587,1.539
+1390635,Canned Soup,Marlboro,1.5222,0.863
+1391113,Canned Soup,Kraft,3.402,1.003
+1391479,Canned Soup,General Mills,2.3363,1.168
+1392309,Canned Soup,Pepsi,3.0244,1.091
+1392803,Canned Soup,Healthy Choice,2.3407,1.24
+1393206,Canned Soup,Heinz,2.7325,0.661
+1393703,Canned Soup,Colgate,3.6439,1.626
+1394573,Canned Soup,Pepsi,2.7528,1.135
+1395307,Canned Soup,Kellogg,1.7173,1.853
+1395472,Canned Soup,Nabisco,1.919,1.227
+1395862,Canned Soup,General Mills,1.9078,0.756
+1396231,Canned Soup,Nabisco,2.2647,1.294
+1396581,Canned Soup,Sunbeam,2.9053,1.136
+1397033,Canned Soup,Kimberly,2.8249,1.277
+1397915,Canned Soup,Campbells,1.982,0.891
+1398623,Canned Soup,Kraft,3.0018,0.963
+1399232,Cookies,Nestle,2.354,3.545
+1399374,Cookies,Nabisco,1.5966,3.939
+1399907,Cookies,Pepsi,1.027,2.534
+1400090,Cookies,Post,2.9928,2.5325
+1400709,Cookies,Marlboro,2.1154,3.218
+1401506,Cookies,Sunbeam,1.2462,1.756
+1401692,Cookies,Nabisco,1.9702,3.157
+1402319,Cookies,Healthy Choice,2.4936,1.914
+1403119,Cookies,Crest,1.6711,5.932
+1403427,Cookies,Coca-Cola,0.7169,5.846
+1404319,Cookies,Cheer,1.4841,2.474
+1404753,Cookies,Generic,3.1321,2.0335
+1405323,Cookies,Cheer,2.389,3.422
+1405839,Cookies,Bounty,2.8664,1.457
+1405877,Cookies,Tylenol,2.7652,1.9715
+1406551,Cookies,Quaker,2.2905,2.691
+1407146,Cookies,Keebler,1.9609,1.6695
+1407791,Cookies,Bounty,2.2848,2.318
+1408373,Cookies,Pepsi,1.46,5.15
+1408544,Cookies,Tylenol,2.8177,4.455
+1408590,Cookies,Quaker,1.5387,2.454
+1408797,Cookies,Marlboro,1.7574,2.017
+1409267,Cookies,Tide,1.7,4.144
+1409412,Cookies,Quaker,2.9925,3.302
+1409936,Cookies,Kellogg,3.7684,2.705
+1410223,Cookies,Kimberly,1.8897,4.0395
+1410496,Cookies,Kimberly,2.653,1.549
+1410643,Cookies,Kraft,3.8928,1.9475
+1411053,Cookies,Kellogg,1.6431,2.8515
+1411590,Cookies,Kimberly,1.6281,3.2745
+1412059,Cookies,Budweiser,2.0257,2.166
+1412456,Cookies,Miller,2.7613,2.54
+1412528,Cookies,Dominicks,2.231,1.349
+1412792,Cookies,Heinz,1.0085,2.97
+1413274,Cookies,P&G,2.9168,2.913
+1413667,Cookies,Healthy Choice,2.73,3.252
+1414370,Cookies,Bounty,2.3491,4.084
+1414543,Cookies,Sunbeam,2.4939,3.0015
+1414923,Cookies,Tide,3.4639,3.9745
+1415068,Cookies,Nestle,2.7597,1.951
+1415563,Cookies,Cheer,1.665,2.95
+1415615,Cookies,Healthy Choice,2.187,2.471
+1416498,Cookies,Marlboro,3.1116,3.054
+1416765,Cookies,Dominicks,3.1234,1.947
+1417125,Cookies,Keebler,1.822,1.595
+1417284,Cookies,Nabisco,2.4432,2.804
+1418172,Cookies,Campbells,1.328,2.3775
+1418855,Cookies,Nabisco,2.4917,2.284
+1419401,Cookies,Nestle,1.2112,2.095
+1419424,Cookies,Lean Cuisine,2.5262,3.1125
+1420042,Cookies,Unilever,1.9303,1.93
+1420884,Cookies,Kellogg,2.3097,2.3965
+1421511,Cookies,Marlboro,2.4601,2.421
+1422009,Cookies,Budweiser,2.5016,3.887
+1422846,Cookies,Kraft,2.608,2.043
+1423297,Cookies,Tide,3.0152,2.7835
+1423803,Cookies,Colgate,0.7745,2.316
+1424609,Cookies,Quaker,3.1456,3.594
+1425195,Cookies,Dominicks,1.3396,3.114
+1425489,Cookies,Colgate,2.3516,1.509
+1426270,Cookies,Campbells,2.9414,1.437
+1426942,Cookies,Budweiser,2.3956,3.818
+1427744,Cookies,General Mills,2.062,3.3925
+1428220,Cookies,Charmin,1.6198,2.315
+1428518,Cookies,Kellogg,1.9146,3.027
+1429066,Cookies,Lean Cuisine,2.0756,2.629
+1429309,Cookies,Crest,1.9017,3.116
+1429466,Cookies,Cheer,2.8123,3.451
+1429608,Cookies,Post,2.5263,2.607
+1430474,Cookies,Colgate,2.2293,2.704
+1430540,Cookies,Coca-Cola,3.5185,2.4075
+1430635,Cookies,Heinz,2.9625,3.3985
+1431512,Cookies,Nestle,2.3456,3.298
+1432154,Cookies,Healthy Choice,2.1338,4.1255
+1433029,Cookies,Cheer,2.2334,2.856
+1433617,Cookies,Campbells,2.5321,3.961
+1433969,Cookies,Tide,1.946,2.7
+1434512,Cookies,Nestle,2.6252,3.942
+1435299,Cookies,P&G,2.4361,2.272
+1436082,Cookies,Pepsi,3.5038,2.6845
+1436454,Cookies,Tylenol,1.8773,4.303
+1436616,Cookies,Lean Cuisine,1.4267,1.282
+1437321,Cookies,Coca-Cola,1.5772,1.9445
+1437869,Cookies,Budweiser,1.9258,3.472
+1438124,Cookies,Generic,3.2207,4.173
+1438210,Cookies,Post,2.2848,2.134
+1438246,Cookies,Generic,2.6401,2.319
+1438501,Cookies,Generic,1.5451,2.626
+1438624,Cookies,Tylenol,2.9909,3.758
+1438921,Cookies,Heinz,2.5681,2.171
+1439750,Cookies,Marlboro,1.38,1.765
+1440439,Cookies,Cheer,2.8905,2.0965
+1441088,Cookies,Budweiser,3.2286,3.252
+1441128,Cookies,Healthy Choice,3.3727,3.697
+1441245,Cookies,Budweiser,2.6008,3.801
+1441838,Cookies,Heinz,3.818,1.545
+1442098,Cookies,Nestle,2.1737,1.968
+1442908,Cookies,Campbells,3.1099,3.5605
+1443445,Cookies,Pepsi,1.8102,2.47
+1444031,Cookies,Cheer,2.9303,4.8555
+1444758,Cookies,Miller,2.6223,1.735
+1445459,Cookies,Kraft,2.2656,3.193
+1446202,Cookies,Generic,2.9182,0.995
+1446574,Cookies,Cheer,1.1362,3.287
+1447137,Cookies,Tylenol,2.649,2.9015
+1447458,Cookies,Lean Cuisine,1.6592,2.997
+1447993,Cookies,Kraft,2.5837,4.919
+1448857,Cookies,General Mills,2.2424,4.454
+1449687,Cookies,Kimberly,3.2151,2.0495
+1450522,Cookies,Kellogg,3.33,2.805
+1450763,Cookies,Post,2.3175,1.874
+1450905,Cookies,Tylenol,2.4612,4.278
+1451125,Cookies,Nestle,3.5271,2.147
+1451133,Cookies,Bounty,2.6187,4.028
+1451152,Cookies,Budweiser,2.8972,6.0875
+1451254,Cookies,Lean Cuisine,2.4553,4.976
+1452094,Cookies,Bounty,3.3558,3.25
+1452944,Cookies,Kimberly,3.0832,2.738
+1453538,Cookies,Generic,1.0908,1.884
+1453855,Cookies,Kellogg,2.5035,2.588
+1454422,Paper Towels,Lean Cuisine,3.6251,2.258
+1454715,Paper Towels,Crest,2.3132,2.657
+1455479,Paper Towels,Kraft,3.3025,2.8045
+1456266,Paper Towels,Kellogg,1.8926,2.872
+1456866,Paper Towels,Charmin,2.1706,3.502
+1457749,Paper Towels,Keebler,1.3374,4.477
+1458156,Paper Towels,Miller,2.734,2.518
+1458336,Paper Towels,P&G,2.8787,3.105
+1458709,Paper Towels,Unilever,2.3108,2.183
+1459043,Paper Towels,Post,2.0159,2.663
+1459564,Paper Towels,Cheer,2.1133,1.14
+1459974,Paper Towels,Generic,2.1728,2.114
+1460232,Paper Towels,P&G,3.1052,1.64
+1460368,Paper Towels,Tide,3.0535,2.8485
+1460923,Paper Towels,Budweiser,2.5968,2.079
+1461058,Paper Towels,Miller,3.1478,2.665
+1461596,Paper Towels,Miller,2.231,2.0185
+1461943,Paper Towels,Sunbeam,2.8424,1.4265
+1462461,Paper Towels,Keebler,2.2091,2.557
+1462988,Paper Towels,Kimberly,2.831,1.455
+1463440,Paper Towels,Keebler,2.5962,2.8285
+1464259,Paper Towels,Campbells,2.8458,1.764
+1464804,Paper Towels,General Mills,3.3568,2.545
+1465369,Paper Towels,Pepsi,1.6708,3.981
+1465620,Paper Towels,Colgate,2.911,0.89
+1466168,Paper Towels,Marlboro,1.845,3.152
+1467043,Paper Towels,Campbells,1.7294,1.731
+1467281,Paper Towels,Keebler,2.6723,2.1535
+1467331,Paper Towels,Tylenol,2.0753,3.186
+1467406,Paper Towels,Cheer,1.7451,3.376
+1467739,Paper Towels,Cheer,1.5066,1.908
+1467861,Paper Towels,Lean Cuisine,1.7942,2.342
+1468754,Paper Towels,Miller,1.7844,2.147
+1469503,Paper Towels,Quaker,2.5516,1.3405
+1470026,Paper Towels,Pepsi,3.1164,1.986
+1470807,Paper Towels,Unilever,2.7447,2.625
+1471386,Paper Towels,Kraft,1.9313,2.152
+1471483,Paper Towels,Charmin,2.6343,2.3475
+1472084,Paper Towels,Unilever,2.3128,3.034
+1472143,Paper Towels,Budweiser,2.8288,1.813
+1472702,Paper Towels,Marlboro,3.0358,2.326
+1473320,Paper Towels,Campbells,1.9657,3.432
+1473982,Paper Towels,Lean Cuisine,2.4154,3.356
+1474703,Paper Towels,Heinz,2.5858,2.3255
+1475238,Paper Towels,P&G,3.3281,2.241
+1476095,Paper Towels,Sunbeam,2.1903,1.975
+1476873,Paper Towels,Heinz,1.8751,2.417
+1477040,Paper Towels,Campbells,2.3109,1.76
+1477341,Paper Towels,Lean Cuisine,1.2714,6.166
+1477786,Paper Towels,Kellogg,3.1007,2.938
+1478526,Paper Towels,Keebler,0.7446,3.9815
+1478844,Paper Towels,Nestle,3.1517,0.8915
+1479174,Paper Towels,General Mills,3.5385,1.78
+1479255,Paper Towels,Unilever,1.313,1.203
+1479986,Paper Towels,P&G,1.9575,1.227
+1480724,Paper Towels,Crest,2.5347,2.26
+1481270,Paper Towels,Kimberly,2.3412,1.857
+1481815,Paper Towels,Lean Cuisine,1.9495,1.6365
+1482147,Paper Towels,General Mills,1.2888,1.8295
+1482759,Paper Towels,Keebler,3.6367,2.7455
+1483043,Paper Towels,Campbells,3.3982,1.454
+1483202,Paper Towels,Keebler,2.2248,3.852
+1483555,Paper Towels,Miller,1.887,4.334
+1484050,Paper Towels,Kimberly,2.3705,3.026
+1484895,Paper Towels,Colgate,1.8171,2.8905
+1485695,Paper Towels,P&G,1.3427,2.91
+1485787,Paper Towels,Kellogg,2.4756,1.719
+1486311,Paper Towels,Nabisco,2.4104,6.18
+1486936,Paper Towels,Lean Cuisine,2.2973,3.0505
+1487580,Paper Towels,Dominicks,1.0921,1.559
+1488007,Paper Towels,Pepsi,3.206,1.348
+1488168,Paper Towels,Generic,2.8493,1.929
+1488809,Paper Towels,Sunbeam,2.5751,1.565
+1488953,Paper Towels,Sunbeam,1.7078,1.509
+1489430,Paper Towels,Kellogg,1.8434,0.62
+1489907,Paper Towels,Dominicks,1.9659,1.352
+1490649,Paper Towels,Nabisco,2.2229,2.144
+1490914,Paper Towels,Healthy Choice,2.4492,2.87
+1491417,Paper Towels,Quaker,1.9931,1.834
+1491682,Paper Towels,Healthy Choice,1.7473,2.472
+1492133,Bathroom Tissues,Nestle,1.7099,2.364
+1493026,Bathroom Tissues,Unilever,1.8021,2.717
+1493538,Bathroom Tissues,Tylenol,2.0949,1.454
+1494074,Bathroom Tissues,Tylenol,1.6105,2.7895
+1494553,Bathroom Tissues,Tylenol,2.0219,2.8895
+1494966,Bathroom Tissues,Bounty,2.0099,2.751
+1495250,Bathroom Tissues,Colgate,3.042,2.738
+1495531,Bathroom Tissues,Dominicks,1.6313,1.543
+1496077,Bathroom Tissues,Heinz,2.9674,1.7945
+1496972,Bathroom Tissues,Miller,2.0963,1.4395
+1497788,Bathroom Tissues,Bounty,3.357,3.878
+1498389,Bathroom Tissues,Quaker,2.7778,3.366
+1498824,Bathroom Tissues,Miller,3.161,2.135
+1499164,Bathroom Tissues,Sunbeam,2.6631,3.576
+1499624,Bathroom Tissues,General Mills,3.7963,2.1565
+1500329,Bathroom Tissues,Tylenol,1.5277,2.4955
+1500976,Bathroom Tissues,General Mills,3.1761,2.365
+1501830,Bathroom Tissues,Bounty,3.4658,2.905
+1502540,Bathroom Tissues,Pepsi,3.5295,4.0455
+1502873,Bathroom Tissues,Tide,2.1685,4.4795
+1503031,Bathroom Tissues,Cheer,2.1696,3.41
+1503039,Bathroom Tissues,Nestle,3.6057,2.227
+1503326,Bathroom Tissues,Tide,3.4701,1.756
+1504090,Bathroom Tissues,Tide,2.5135,2.824
+1504190,Bathroom Tissues,P&G,3.5353,2.795
+1504553,Bathroom Tissues,Sunbeam,2.2631,1.511
+1504855,Bathroom Tissues,Kimberly,2.1894,3.1355
+1505585,Bathroom Tissues,Healthy Choice,2.8894,1.582
+1505743,Bathroom Tissues,Kellogg,0.6658,1.245
+1506463,Bathroom Tissues,Coca-Cola,3.0748,3.1435
+1506511,Bathroom Tissues,Marlboro,2.6529,3.019
+1506572,Bathroom Tissues,Kellogg,1.4245,2.1485
+1506817,Bathroom Tissues,Unilever,3.7405,1.443
+1506935,Bathroom Tissues,Sunbeam,3.505,2.8335
+1507438,Bathroom Tissues,Campbells,2.311,2.203
+1508215,Bathroom Tissues,Dominicks,1.3865,1.453
+1509103,Bathroom Tissues,General Mills,2.7431,2.187
+1509210,Bathroom Tissues,Colgate,1.042,2.5005
+1509458,Bathroom Tissues,Sunbeam,2.4602,2.6585
+1509630,Bathroom Tissues,Heinz,2.2744,1.4535
+1510289,Bathroom Tissues,Colgate,1.3902,0.8275
+1510938,Bathroom Tissues,Sunbeam,2.8952,1.3285
+1511181,Bathroom Tissues,Kellogg,3.0763,1.6805
+1511489,Bathroom Tissues,Cheer,1.4899,1.296
+1511500,Bathroom Tissues,Miller,2.9657,2.817
+1511887,Bathroom Tissues,Dominicks,3.3517,1.996
+1512780,Bathroom Tissues,Campbells,1.7781,2.346
+1513375,Bathroom Tissues,Post,1.5342,2.319
+1513420,Bathroom Tissues,Unilever,2.2229,4.033
+1513462,Bathroom Tissues,Keebler,2.356,1.9275
+1513843,Bathroom Tissues,Keebler,2.177,2.977
+1514453,Bathroom Tissues,Post,2.7632,2.174
+1515265,Bathroom Tissues,Tide,1.7059,3.674
+1515443,Bathroom Tissues,Campbells,2.3914,3.917
+1516031,Bathroom Tissues,Coca-Cola,1.7778,1.714
+1516423,Bathroom Tissues,Sunbeam,1.4412,1.625
+1516984,Bathroom Tissues,Campbells,1.4852,4.4765
+1517561,Bathroom Tissues,Campbells,3.0256,2.7925
+1518130,Bathroom Tissues,Sunbeam,1.9853,2.321
+1518316,Bathroom Tissues,Colgate,4.013,2.515
+1519170,Bathroom Tissues,Keebler,1.8392,2.694
+1519221,Bathroom Tissues,Healthy Choice,2.0827,1.4825
+1519375,Bathroom Tissues,Kellogg,2.0966,3.361
+1519401,Bathroom Tissues,Tylenol,2.7078,3.535
+1519754,Bathroom Tissues,Heinz,2.8699,2.51
+1520509,Bathroom Tissues,Heinz,3.3138,1.141
+1521320,Bathroom Tissues,Kimberly,2.0377,4.6905
+1522037,Bathroom Tissues,Sunbeam,1.9536,1.159
+1522343,Bathroom Tissues,Healthy Choice,1.1886,2.7435
+1522659,Bathroom Tissues,Unilever,1.9,3.371
+1522671,Bathroom Tissues,Bounty,0.7629,4.121
+1523212,Bathroom Tissues,Tide,2.1802,3.771
+1523977,Bathroom Tissues,Unilever,1.8697,2.5665
+1524371,Bathroom Tissues,Cheer,2.9813,1.606
+1524877,Bathroom Tissues,Crest,2.3455,4.199
+1525692,Bathroom Tissues,Crest,1.4238,2.2205
+1526145,Bathroom Tissues,Keebler,3.0011,2.182
+1526832,Bathroom Tissues,Heinz,2.5305,1.669
+1527583,Bathroom Tissues,Keebler,1.2734,2.476
+1527701,Bathroom Tissues,Kimberly,1.88,3.374
+1527983,Oatmeal,Generic,2.1067,3.306
+1528169,Oatmeal,Miller,3.3804,4.224
+1528499,Oatmeal,Budweiser,2.3941,4.055
+1528749,Oatmeal,Kimberly,3.0081,3.7075
+1528929,Oatmeal,Pepsi,1.5005,2.9635
+1529071,Oatmeal,Charmin,1.9965,5.7275
+1529210,Oatmeal,Kraft,3.6992,4.826
+1529795,Oatmeal,Campbells,2.0838,3.977
+1530632,Oatmeal,Pepsi,1.5413,2.074
+1531254,Oatmeal,Marlboro,2.3718,2.791
+1531511,Oatmeal,Coca-Cola,2.6629,4.645
+1531882,Oatmeal,Colgate,2.3163,9.2155
+1532664,Oatmeal,Colgate,4.1968,4.428
+1533484,Oatmeal,Nestle,3.2412,4.34
+1533495,Oatmeal,Miller,2.3723,2.308
+1533938,Oatmeal,Tide,2.4017,1.619
+1534023,Oatmeal,Healthy Choice,1.5524,6.78
+1534265,Oatmeal,Campbells,1.1703,2.2045
+1534984,Oatmeal,Campbells,2.4482,1.87
+1535090,Oatmeal,Tide,1.9922,7.7165
+1535982,Oatmeal,P&G,1.9614,1.94
+1536213,Oatmeal,Nabisco,3.1623,3.017
+1536736,Oatmeal,Pepsi,1.324,3.295
+1537162,Oatmeal,Tide,2.3689,1.937
+1537989,Oatmeal,Heinz,3.2739,4.85
+1538520,Oatmeal,Lean Cuisine,2.595,4.8195
+1538535,Oatmeal,Keebler,2.9005,2.5505
+1538810,Oatmeal,Tide,3.7191,2.8775
+1539056,Oatmeal,Kellogg,1.6661,2.5805
+1539949,Oatmeal,Heinz,2.0128,3.883
+1539982,Oatmeal,Bounty,2.6715,3.244
+1540812,Oatmeal,Miller,1.594,2.261
+1541662,Oatmeal,Cheer,2.6465,5.2105
+1541735,Oatmeal,Pepsi,3.7193,3.5225
+1541853,Oatmeal,Nabisco,3.0744,1.997
+1542249,Oatmeal,Healthy Choice,2.9106,1.9175
+1542280,Oatmeal,Bounty,2.9258,2.095
+1542843,Oatmeal,Sunbeam,1.738,2.779
+1543393,Oatmeal,Lean Cuisine,2.8331,7.6
+1543399,Oatmeal,Unilever,3.0312,3.0665
+1543677,Oatmeal,Nestle,1.7518,1.727
+1543919,Oatmeal,Post,2.5179,6.727
+1544661,Oatmeal,Healthy Choice,2.4627,5.136
+1544761,Oatmeal,Keebler,3.5793,3.126
+1545412,Oatmeal,Coca-Cola,2.0904,5.1935
+1545654,Oatmeal,Crest,2.5305,3.094
+1546545,Oatmeal,Budweiser,2.9618,4.89
+1547155,Oatmeal,Marlboro,4.2452,3.972
+1547988,Oatmeal,Healthy Choice,1.1984,3.376
+1548724,Oatmeal,Lean Cuisine,2.1644,1.495
+1549568,Oatmeal,Kimberly,2.0082,2.771
+1550171,Oatmeal,Cheer,3.0373,2.379
+1550398,Oatmeal,Campbells,2.3458,3.039
+1551163,Oatmeal,Healthy Choice,3.3914,6.795
+1551175,Oatmeal,Tylenol,2.3805,3.312
+1551790,Oatmeal,Crest,2.6798,2.483
+1551920,Oatmeal,P&G,2.6196,1.8495
+1552239,Oatmeal,Nestle,2.7291,4.04
+1552414,Oatmeal,P&G,0.9098,4.275
+1552724,Oatmeal,Keebler,1.4037,4.6515
+1552780,Oatmeal,Coca-Cola,1.2873,2.095
+1553259,Oatmeal,Campbells,2.263,5.613
+1553296,Oatmeal,Marlboro,1.6143,1.156
+1553859,Oatmeal,Unilever,2.7719,2.487
+1553888,Oatmeal,Tylenol,2.6878,3.65
+1554409,Oatmeal,Charmin,1.6281,3.841
+1554538,Oatmeal,Kellogg,1.5554,2.4345
+1555077,Oatmeal,Colgate,1.3213,4.733
+1555158,Oatmeal,Bounty,2.2208,2.66
+1555404,Oatmeal,Quaker,2.3512,3.42
+1555661,Cigarettes,Campbells,2.03,15.906
+1556480,Cigarettes,Budweiser,3.012,6.6825
+1556723,Cigarettes,Tylenol,2.2995,10.275
+1557602,Cigarettes,Bounty,1.6252,7.7385
+1557854,Cigarettes,Tylenol,2.3954,17.33
+1558444,Cigarettes,Post,3.3819,9.1965
+1558514,Cigarettes,Healthy Choice,2.0819,9.252
+1559210,Cigarettes,Coca-Cola,1.3675,10.503
+1559971,Cigarettes,Tylenol,2.8656,8.4015
+1560826,Cigarettes,Unilever,1.9085,9.839
+1561481,Cigarettes,Bounty,2.9434,12.371
+1561594,Cigarettes,Tylenol,3.3855,6.4905
+1561930,Cigarettes,Charmin,4.1194,17.3455
+1562600,Cigarettes,Quaker,2.0472,7.477
+1562837,Cigarettes,General Mills,1.5948,6.926
+1563469,Cigarettes,Post,4.0766,7.643
+1563541,Cigarettes,Campbells,1.4406,22.273
+1563876,Cigarettes,Nabisco,1.6048,6.44
+1564416,Cigarettes,Dominicks,1.5298,13.517
+1565231,Cigarettes,Post,2.0733,6.486
+1565663,Cigarettes,Budweiser,3.5896,7.332
+1566058,Cigarettes,Pepsi,2.9351,8.0
+1566931,Cigarettes,Coca-Cola,1.7246,10.3565
+1567653,Cigarettes,Healthy Choice,2.2531,10.4375
+1567904,Cigarettes,Marlboro,0.9797,7.705
+1568045,Cigarettes,Nestle,2.9496,22.741
+1568747,Cigarettes,Bounty,3.6696,5.847
+1569482,Cigarettes,Nestle,3.3609,6.781
+1569998,Cigarettes,Budweiser,2.8629,11.497
+1570252,Cigarettes,Marlboro,1.7805,12.165
+1570455,Cigarettes,Kraft,3.6396,11.23
+1571332,Cigarettes,Campbells,3.3218,8.297
+1571352,Cigarettes,Kimberly,1.4404,18.4095
+1571990,Cigarettes,Bounty,1.5939,9.6295
+1572819,Cigarettes,Healthy Choice,3.2137,9.2225
+1573689,Cigarettes,P&G,1.5949,16.329
+1573817,Cigarettes,Crest,2.1047,5.748
+1574337,Cigarettes,Miller,2.1843,9.675
+1575000,Cigarettes,Heinz,2.1957,16.355
+1575506,Cigarettes,Healthy Choice,1.8514,10.2495
+1575547,Cigarettes,Sunbeam,1.6245,10.804
+1576114,Cigarettes,Nestle,2.4791,9.8665
+1576801,Cigarettes,Kimberly,2.4746,6.675
+1577463,Cigarettes,P&G,1.4007,3.905
+1577635,Cigarettes,Bounty,2.3839,13.1435
+1577686,Cigarettes,Quaker,3.7159,19.377
+1578360,Cigarettes,Tide,2.1753,9.404
+1578387,Cigarettes,Bounty,3.7339,14.772
+1578461,Cigarettes,Tide,3.5495,8.2735
+1578669,Cigarettes,Nabisco,3.4549,11.911
+1578906,Cigarettes,P&G,2.8169,11.3215
+1578985,Cigarettes,Post,2.2012,9.252
+1579423,Cigarettes,Cheer,2.3233,12.461
+1579811,Cigarettes,Post,2.1368,8.7565
+1580209,Cigarettes,Kraft,3.0188,11.404
+1580549,Cigarettes,P&G,2.3066,5.884
+1581253,Cigarettes,Dominicks,1.3203,7.3845
+1581670,Cigarettes,Nabisco,1.7222,9.266
+1582025,Cigarettes,Heinz,2.8294,12.0415
+1582696,Cigarettes,Coca-Cola,1.8722,20.315
+1583143,Frozen Dinners,Heinz,1.3989,2.693
+1583446,Frozen Dinners,Heinz,1.3987,2.932
+1584164,Frozen Dinners,Cheer,2.3649,4.028
+1584469,Frozen Dinners,Kimberly,2.0147,2.586
+1585006,Frozen Dinners,P&G,2.5295,2.289
+1585593,Frozen Dinners,Budweiser,3.3011,5.9225
+1586382,Frozen Dinners,Colgate,2.188,5.712
+1586789,Frozen Dinners,Sunbeam,2.1789,3.742
+1587229,Frozen Dinners,Dominicks,3.3097,4.124
+1587610,Frozen Dinners,Tide,3.1158,2.421
+1587926,Frozen Dinners,Lean Cuisine,1.1491,1.9965
+1588588,Frozen Dinners,Unilever,3.5015,5.999
+1588995,Frozen Dinners,Kraft,1.5951,2.4625
+1589509,Frozen Dinners,Kellogg,2.5185,1.97
+1589928,Frozen Dinners,Kellogg,1.6865,3.8045
+1590513,Frozen Dinners,Pepsi,1.8395,2.242
+1590916,Frozen Dinners,Tide,2.1085,3.849
+1590979,Frozen Dinners,Generic,1.9693,1.348
+1591296,Frozen Dinners,Bounty,1.7981,2.376
+1592012,Frozen Dinners,Marlboro,2.8732,4.602
+1592803,Frozen Dinners,Kellogg,2.709,4.734
+1593293,Frozen Dinners,P&G,1.9747,3.096
+1594174,Frozen Dinners,Marlboro,2.4389,2.239
+1594818,Frozen Dinners,Kraft,2.4455,7.53
+1595279,Frozen Dinners,Budweiser,3.5925,4.1395
+1595454,Frozen Dinners,Sunbeam,4.2492,5.115
+1595982,Frozen Dinners,Heinz,2.7701,3.058
+1596744,Frozen Dinners,Coca-Cola,0.9199,3.481
+1596874,Frozen Dinners,P&G,2.3807,4.025
+1597356,Frozen Dinners,Cheer,1.6556,3.7305
+1597712,Frozen Dinners,Kimberly,2.9145,4.323
+1598456,Frozen Dinners,Dominicks,2.8549,1.768
+1598752,Frozen Dinners,Marlboro,2.5879,1.663
+1599578,Frozen Dinners,P&G,2.5864,2.957
+1600060,Frozen Dinners,Marlboro,2.2818,3.6865
+1600204,Frozen Dinners,Pepsi,1.6167,3.6825
+1600983,Frozen Dinners,Kraft,2.4772,3.208
+1601115,Frozen Dinners,Marlboro,2.4354,1.822
+1601306,Frozen Dinners,Nabisco,1.7667,2.941
+1601785,Frozen Dinners,Kellogg,2.1576,3.055
+1602288,Frozen Dinners,Cheer,4.8011,7.237
+1602445,Frozen Dinners,Kellogg,2.9625,4.082
+1602882,Frozen Dinners,Tylenol,2.6392,5.324
+1603753,Frozen Dinners,Pepsi,3.5987,4.617
+1604012,Frozen Dinners,Budweiser,2.2955,3.306
+1604452,Frozen Dinners,Miller,2.8521,3.384
+1604777,Frozen Dinners,Colgate,2.2471,1.8895
+1605017,Frozen Dinners,Post,2.6687,6.428
+1605819,Frozen Dinners,Tylenol,2.0538,3.08
+1606410,Frozen Dinners,Healthy Choice,2.8114,3.721
+1607270,Frozen Dinners,Kraft,1.5851,2.499
+1607540,Frozen Dinners,P&G,1.6214,2.463
+1608403,Frozen Dinners,Sunbeam,2.0807,3.896
+1608745,Frozen Dinners,Dominicks,1.7217,3.596
+1609444,Frozen Dinners,Coca-Cola,1.7778,2.55
+1609459,Frozen Dinners,Dominicks,2.2074,1.2905
+1610044,Frozen Dinners,Colgate,2.7478,3.127
+1610275,Frozen Dinners,Lean Cuisine,2.7328,3.139
+1611090,Frozen Dinners,Quaker,1.9174,3.3655
+1611178,Frozen Dinners,Marlboro,3.6754,5.369
+1611368,Frozen Dinners,Post,1.516,2.691
+1611816,Frozen Dinners,Keebler,1.979,3.464
+1612656,Frozen Dinners,Nestle,2.0971,2.164
+1612667,Frozen Dinners,Generic,1.5179,1.742
+1613018,Frozen Dinners,P&G,2.6523,4.448
+1613064,Frozen Dinners,Lean Cuisine,3.6781,2.424
+1613639,Frozen Dinners,Colgate,1.7083,3.7855
+1614125,Frozen Dinners,Marlboro,3.1091,3.4315
+1614792,Frozen Dinners,General Mills,2.7647,4.627
+1614985,Frozen Dinners,Sunbeam,3.6502,2.43
+1615719,Frozen Dinners,Nabisco,2.1905,3.435
+1615968,Frozen Dinners,Crest,1.8297,3.07
+1616022,Frozen Dinners,Heinz,1.1789,2.969
+1616044,Frozen Dinners,Nabisco,1.8134,2.348
+1616878,Frozen Dinners,Colgate,1.4575,3.166
+1617330,Frozen Dinners,Quaker,1.5584,2.753
+1617938,Frozen Dinners,Unilever,1.982,4.78
+1618430,Frozen Dinners,Miller,2.0929,3.064
+1619250,Frozen Dinners,Crest,2.0096,5.971
+1619667,Frozen Dinners,Cheer,2.4272,4.734
+1620477,Frozen Dinners,Kraft,2.7982,5.85
+1620520,Frozen Dinners,Healthy Choice,2.4728,1.434
+1620937,Frozen Dinners,Sunbeam,1.9554,2.64
+1621434,Frozen Dinners,Keebler,2.399,5.801
+1621947,Frozen Dinners,Miller,2.7791,4.797
+1622774,Frozen Dinners,Charmin,1.5467,2.7745
+1622888,Frozen Dinners,Coca-Cola,2.4839,2.742
+1622923,Frozen Dinners,Coca-Cola,2.4393,2.875
+1623118,Frozen Dinners,Crest,2.5808,2.438
+1623146,Frozen Dinners,Nestle,2.9754,1.279
+1623516,Frozen Dinners,Charmin,1.634,3.207
+1624073,Frozen Dinners,General Mills,0.7293,1.529
+1624924,Frozen Dinners,P&G,1.25,2.1635
+1625465,Frozen Dinners,Coca-Cola,1.4953,2.2995
+1626086,Frozen Dinners,Heinz,1.2693,4.542
+1626778,Frozen Dinners,Post,1.8997,2.819
+1627237,Frozen Dinners,Miller,3.103,3.867
+1627905,Frozen Dinners,Miller,1.9948,4.506
+1628765,Frozen Dinners,General Mills,3.2611,2.895
+1629563,Frozen Dinners,Crest,2.8988,1.658
